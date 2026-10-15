@@ -15,3 +15,4 @@ else:
                 print("pagas un 30%")
             else:
                 print("pagas un 45%")
+                
