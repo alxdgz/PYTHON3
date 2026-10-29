@@ -5,6 +5,4 @@ anos = int(input("Introduzca el número de años que quiere que dure: "))
 for i in range(1, anos + 1):
     capital = capital + (capital * interes)
     
-    print(f"Año {i}: {capital:.2f} €")
-
-print("Año", i, ":", capital)
+    print("Año", i, ":", capital)
